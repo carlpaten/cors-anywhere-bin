@@ -1,0 +1,1 @@
+Use to proxy CORS over HTTP or HTTPS. Based on [CORS Anywhere](https://github.com/Rob--W/cors-anywhere).
